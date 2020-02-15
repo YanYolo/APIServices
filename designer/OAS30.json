@@ -170,12 +170,6 @@
           }
         }
       }
-    },
-    "securitySchemes" : {
-      "Basic authentication" : {
-        "type" : "http",
-        "scheme" : "basic"
-      }
     }
   }
 }
